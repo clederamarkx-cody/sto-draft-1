@@ -1,6 +1,6 @@
-# People 360
+# Platform
 
-People 360 is a modern SaaS platform designed for interactive safety training. This project is a frontend prototype showcasing a high-converting landing page for the application.
+This platform is a modern SaaS solution designed for interactive safety training. This project is a frontend prototype showcasing a high-converting landing page for the application.
 
 ## Features Highlighted
 
